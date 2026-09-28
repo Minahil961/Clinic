@@ -1,0 +1,6 @@
+{
+  "name": "VOGUE Dental & Aesthetics",
+  "description": "Premier clinic for world-class cosmetic dentistry, orthodontic care, facial aesthetics, and dermatological wellness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
